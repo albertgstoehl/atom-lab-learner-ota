@@ -1,6 +1,6 @@
 product=atom-lab-atoms3r
-version=10
-size=1195536
-sha256=c5a45ed914d89607faf0d3d7fa90b874a921c072594249bf4c58bb26ff2fb97c
-url=https://raw.githubusercontent.com/albertgstoehl/atom-lab-learner-ota/ota/firmware/firmware-v10.bin
-signature=MEQCIFQdf3voZWrjsVLvY/XVT38mmmHuspLmi2gy/S8GhqyMAiAhOJQs+xn49KIswsXti1wQo0vVpHHnL/4ixHqsUq8mmA==
+version=11
+size=1229456
+sha256=41ea44f99194944f47cb83f32436a7e8c2685cd6a77a958b4184ad27d16e4f91
+url=https://raw.githubusercontent.com/albertgstoehl/atom-lab-learner-ota/ota/firmware/firmware-v11.bin
+signature=MEQCIFRv+CNuADLVsEp+/veku71SOZhLPRr7H8fR2xyNp9yNAiBWja9CwUWOuqhVAgw75hjsIeKd/Tp6nh3aHtyE/YlFmg==
